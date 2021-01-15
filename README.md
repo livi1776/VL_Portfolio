@@ -12,3 +12,5 @@ Projects demonstrating my CS abilities
 * Created a visual choropleth map of average income data ($50,000 - $185,000) in Montgomery County.
 * Scraped average income of 45 zipcodes in Montgomery County for the 2018 tax year.  
 * Utilized pandas, numpy, geopandas and matplotlib.pyplot.
+![](/images/Choropleth_Map.png)
+
